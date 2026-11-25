@@ -16,9 +16,13 @@ An end-to-end HR Analytics project built using **SQL**, **Excel/CSV**, and **Pow
 
 ---
 
-## 🖼️ Dashboard Preview
+## 📊 HR Analytics Dashboard
 
-![HR Analytics Dashboard](Screenshot 2026-11-25 115831.png)
+The dashboard provides an interactive view of HR data using Power BI.
+
+### Dashboard Screenshot
+
+![HR Analytics Dashboard](./Screenshot%202026-11-25%20115831.png)
 
 ---
 
