@@ -98,7 +98,7 @@ To analyze employee data and uncover insights related to:
 
 ## 👤 Author
 
-**Jayani Thin Reddy**
+**Jaya Nithin Reddy**
 GitHub: [@jayanithinreddy](https://github.com/jayanithinreddy)
 
 ---
